@@ -1,13 +1,12 @@
-<!-- ===================== DEVOPS BANNER ===================== -->
+<!-- ===================== ANIMATED DEVOPS BANNER ===================== -->
 <p align="center">
-  <img src="assets/banner.gif" alt="DevOps Banner" width="100%" />
+  <img src="assets/banner.gif" width="100%" />
 </p>
 
 <h1 align="center">Udhayaprakash J</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | CI/CD | IaC | SRE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Build.+Automate.+Scale.+Secure.;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+SRE+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+IaC+%7C+SRE;Build.+Automate.+Scale.+Secure." />
 </p>
 
 <p align="center">
@@ -16,9 +15,122 @@
 
 ---
 
-## 👋 About Me
-🚀 DevOps & Cloud Engineer with strong hands-on experience in **AWS, CI/CD, Docker, Kubernetes, and Infrastructure as Code**.  
-I build **scalable, automated, secure, production-grade cloud systems** with an **SRE mindset**.
+## ☁️ AWS CLOUD (REAL ICONS)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Compute/Amazon-EC2.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Compute/AWS-Lambda.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Storage/Amazon-S3.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Database/Amazon-DynamoDB.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Networking-Content-Delivery/Amazon-CloudFront.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Networking-Content-Delivery/Amazon-API-Gateway.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Security-Identity-Compliance/AWS-IAM.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Management-Governance/Amazon-CloudWatch.svg" width="55"/>
+</p>
+
+---
+
+## 🔄 CI/CD & DEVOPS (ANIMATED ICON SET)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,terraform,ansible&theme=dark" />
+</p>
+
+---
+
+## 📦 BUILD • QUALITY • ARTIFACTS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonatype.svg" width="50"/>
+</p>
+
+---
+
+## 📊 MONITORING & LOGGING
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticstack.svg" width="50"/>
+</p>
+
+---
+
+## 🖥️ OS • TOOLS • UTILITIES
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman&theme=dark"/>
+</p>
+
+---
+
+## 🧠 AWS ARCHITECTURE (ANIMATED)
+<p align="center">
+  <img src="assets/aws-architecture.gif" width="85%" />
+</p>
+
+---
+
+## 🔄 CI/CD PIPELINE FLOW (ANIMATED)
+<p align="center">
+  <img src="assets/cicd-pipeline.gif" width="85%" />
+</p>
+
+---
+
+## 🚀 PROJECTS (VISUAL CARDS)
+
+<table>
+<tr>
+<td width="50%">
+<img src="assets/project-secure-app.png" width="100%"/>
+</td>
+<td width="50%">
+<img src="assets/project-cicd.png" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="assets/project-serverless.png" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" width="80"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 CERTIFICATIONS
+<p align="center">
+  <img src="https://img.shields.io/badge/AZ--900-Azure-blue?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/SRE-Google%20Cloud-success?style=for-the-badge&logo=googlecloud"/>
+</p>
+
+---
+
+## 📊 GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 CONNECT
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>I build **scalable, automated, secure, production-grade cloud systems** with an **SRE mindset**.
 
 - 📍 Chennai, India  
 - ☁️ Cloud-Native & Automation-First  
