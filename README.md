@@ -1,13 +1,4 @@
-Understood.
-Below is ONE COMPLETE, TOP-TO-BOTTOM README.md FILE, rewritten cleanly, with NO code-block wrapping, NO triple backticks, and NO rendering traps.
-
-If you select all → copy → paste into README.md → commit,
-everything will render visually, not as code.
-
-<text x="50%" y="55%" text-anchor="middle" font-size="78" font-family="Orbitron, monospace" fill="url(#grad)" filter="url(#neon)" letter-spacing="6"> UDHAYAPRAKASH J <animate attributeName="opacity" values="1;0.85;1" dur="2s" repeatCount="indefinite"/> </text> <text x="50%" y="80%" text-anchor="middle" font-size="22" font-family="monospace" fill="#9AE6FF" opacity="0.85"> CLOUD • DEVOPS • AUTOMATION • SYSTEMS </text> 
-
-🧠 SYSTEM IDENTITY NAME : UDHAYAPRAKASH J ROLE : Elite Cloud & DevOps Engineer MINDSET : Systems > Scripts PHILOSOPHY : Automate Everything MODE : Production-First Engineering 
-
+judhayaprakash27052001@gmail.com
 I don’t chase tools.
 I engineer systems that deploy themselves, heal automatically, and scale under pressure.
 
