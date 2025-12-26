@@ -1,23 +1,41 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== NEON HERO ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Udhayaprakash+J;DevOps+%26+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+%7C+Automation+%7C+SRE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00F5FF&center=true&vCenter=true&width=950&lines=Udhayaprakash+J;DevOps+%26+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+%7C+SRE+Mindset" />
 </p>
 
 <p align="center">
   <a href="https://judhayaprakash27052001-git.github.io/Personal-Portfolio-Blog/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-NEON-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
   <a href="https://www.linkedin.com/in/udhayaprakash-jayavel-80a20b191/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-NEON-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UdhayaprakashJ&label=Profile%20Views&color=38BDF8&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=UdhayaprakashJ&label=PROFILE+VIEWS&color=00F5FF&style=flat-square">
 </p>
 
 ---
+
+## 🧬 SYSTEM PROFILE (Neo-UI)
+
+```yaml
+ENGINEER: Udhayaprakash J
+ROLE: DevOps & Cloud Engineer
+LOCATION: Chennai, India
+FOCUS:
+  - AWS Cloud Architecture
+  - CI/CD Automation
+  - Docker & Kubernetes
+  - Terraform & IaC
+  - Observability & Reliability
+DESIGN_PHILOSOPHY: |
+  Automate everything.
+  Observe everything.
+  Break nothing.
+
 
 ## 👋 Professional Summary
 
