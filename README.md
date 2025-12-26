@@ -89,8 +89,8 @@ CGPA: 7.69 | 2024
 ## 📬 Connect With Me
 
 - 📧 Email: judhayaprakash27052001@gmail.com
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 🌐 Portfolio: *(add your portfolio URL here)*
+- 💼 LinkedIn: *(add your LinkedIn URL here)
+- 🌐 Portfolio: *[(add your portfolio URL here)](https://judhayaprakash27052001-git.github.io/Personal-Portfolio-Blog/)*
 
 ---
 
