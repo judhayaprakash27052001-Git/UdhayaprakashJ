@@ -1,29 +1,154 @@
-judhayaprakash27052001@gmail.com
-🔥 SVG glitch distortion 🎯 Recruiter-optimized alternate README ⚡ Ultra-light performance version 
+<!-- ===================== ANIMATED HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Udhayaprakash%20J&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Say NEXT.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+SRE+Mindset;Build.+Automate.+Scale.+Secure." />
+</p>
 
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00F5FF"/>
-        <stop offset="50%" stop-color="#7928CA"/>
-        <stop offset="100%" stop-color="#FF0080"/>
-      </linearGradient>
-    </defs>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+</p>
 
-    <text x="50%" y="55%"
-          text-anchor="middle"
-          font-size="78"
-          font-family="Orbitron, monospace"
-          fill="url(#grad)"
-          filter="url(#neon)"
-          letter-spacing="6">
-      UDHAYAPRAKASH J
-      <animate attributeName="opacity" values="1;0.85;1" dur="2s" repeatCount="indefinite"/>
+---
+
+## 👋 About Me
+🚀 **DevOps & Cloud Engineer** with strong hands-on experience in **AWS, CI/CD pipelines, Docker, Kubernetes, and Infrastructure as Code**.  
+I design **scalable, automated, secure, production-grade cloud systems** with an SRE mindset.
+
+- 📍 Chennai, India  
+- 🔁 Automation-first, GitHub-driven workflows  
+- ☁️ Cloud-native architecture  
+- 📬 judhayaprakash27052001@gmail.com  
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## ⚙️ Tech Stack
+
+### ☁️ Cloud Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
+</p>
+
+### 🔄 DevOps & CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,terraform,ansible&theme=dark" />
+</p>
+
+### 📦 Build • Quality • Artifacts
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" />
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-blue?style=for-the-badge&logo=sonarqube"/>
+  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repository-success?style=for-the-badge"/>
+</p>
+
+### 📊 Monitoring & Logging
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-Visualization-yellow?style=for-the-badge&logo=grafana"/>
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-Metrics-blue?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/ELK-Logging-black?style=for-the-badge"/>
+</p>
+
+### 🖥️ OS & Utilities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman&theme=dark" />
+</p>
+
+---
+
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2"/>
+
+## 🧩 Core Expertise
+- CI/CD Pipelines (Jenkins, GitHub Actions, AWS CodePipeline)
+- Infrastructure as Code (Terraform, CloudFormation)
+- Serverless Architecture (Lambda, API Gateway, DynamoDB)
+- Containers & Orchestration (Docker, Kubernetes, EKS)
+- Monitoring, Logging & Alerting
+- IAM, Security Best Practices & Cost Optimization
+- Linux System Administration & Shell Scripting
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Secure Web Application – Financial Transactions
+- Responsive UI using **HTML, CSS & React**
+- Secure validation & real-world UX patterns
+- Production-aligned frontend design
+
+### 🔄 CI/CD Pipeline – Jenkins & Docker
+- Automated build → test → deploy
+- Dockerized apps on **AWS EC2**
+- Image versioning with **Amazon ECR**
+
+### ☁️ Serverless Contact Book – AWS
+- **S3 + CloudFront** for global delivery
+- **Lambda + API Gateway + DynamoDB**
+- Secure APIs using IAM roles & policies
+
+---
+
+## 🎓 Education
+🎓 **M.Tech – Software Engineering**  
+Vellore Institute of Technology, Chennai  
+📊 CGPA: **7.69**
+
+---
+
+## 🏢 Internship
+**AI Prompt Intern – TMIS IT Solutions (Mar 2025)**  
+- Prompt engineering for AI tutors & support agents  
+- Improved response clarity, accuracy & context  
+- Hands-on exposure to NLP & AI interaction design  
+
+---
+
+## 📜 Certifications
+<p>
+  <img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/SRE-Google%20Cloud-success?style=for-the-badge&logo=googlecloud"/>
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ DevOps Philosophy
+> **“If it’s not automated, it’s broken.”**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>      <animate attributeName="opacity" values="1;0.85;1" dur="2s" repeatCount="indefinite"/>
     </text>
 
     <text x="50%" y="80%"
