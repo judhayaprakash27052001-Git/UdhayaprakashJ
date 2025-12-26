@@ -1,24 +1,122 @@
-<!-- ===================== ANIMATED DEVOPS BANNER ===================== -->
-<p align="center">
-  <img src="assets/banner.gif" width="100%" />
-</p>
+# 🚀 Udhayaprakash J  
+### DevOps & Cloud Engineer | AWS | CI/CD | IaC | SRE
 
-<h1 align="center">Udhayaprakash J</h1>
+<p align="center">
+  <img src="assets/banner.gif" width="100%" alt="DevOps Banner"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+IaC+%7C+SRE;Build.+Automate.+Scale.+Secure." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0f2027"/>
 </p>
 
 ---
 
-## ☁️ AWS CLOUD (REAL ICONS)
+## 👋 About Me
+DevOps & Cloud Engineer with hands-on experience in building secure, scalable, and automated cloud systems using AWS and modern DevOps practices.
+
+---
+
+## ☁️ AWS Cloud Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Compute/Amazon-EC2.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Compute/AWS-Lambda.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Compute/Amazon-EC2.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Compute/AWS-Lambda.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Storage/Amazon-S3.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Database/Amazon-DynamoDB.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Networking-Content-Delivery/Amazon-CloudFront.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Networking-Content-Delivery/Amazon-API-Gateway.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Security-Identity-Compliance/AWS-IAM.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Management-Governance/Amazon-CloudWatch.svg" width="50"/>
+</p>
+
+---
+
+## 🔄 CI/CD & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,terraform,ansible&theme=dark"/>
+</p>
+
+---
+
+## 📦 Build • Quality • Artifacts
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonatype.svg" width="45"/>
+</p>
+
+---
+
+## 📊 Monitoring & Logging
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticstack.svg" width="45"/>
+</p>
+
+---
+
+## 🖥️ OS • Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman&theme=dark"/>
+</p>
+
+---
+
+## 🧠 Architectures
+<p align="center">
+  <img src="assets/aws-architecture.gif" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="assets/cicd-pipeline.gif" width="85%"/>
+</p>
+
+---
+
+## 🚀 Projects
+<p align="center">
+  <img src="assets/project-secure-app.png" width="45%"/>
+  <img src="assets/project-cicd.png" width="45%"/>
+</p>
+
+---
+
+## 📜 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/AZ--900-Azure-blue?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/SRE-Google%20Cloud-success?style=for-the-badge&logo=googlecloud"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>  <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Compute/AWS-Lambda.svg" width="55"/>
   <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Storage/Amazon-S3.svg" width="55"/>
   <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Database/Amazon-DynamoDB.svg" width="55"/>
   <img src="https://raw.githubusercontent.com/aws-icons/aws-icons/master/icons/Networking-Content-Delivery/Amazon-CloudFront.svg" width="55"/>
