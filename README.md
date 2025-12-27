@@ -65,7 +65,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=INSERT_YOUR_USERNAME_HERE&theme=radical&no-frame=true&no-bg=true&margin-w=2&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=judhayaprakash27052001-Git&theme=radical&no-frame=true&no-bg=true&margin-w=2&row=1&column=6" width="100%"/>
 </div>
 
 ---
