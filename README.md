@@ -176,7 +176,7 @@
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udhayaprakash2705&theme=github_dark" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=judhayaprakash27052001-Git&theme=github_dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -190,7 +190,7 @@
   <a href="mailto:judhayaprakash27052001@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://github.com/udhayaprakash2705">
+  <a href="https://github.com/judhayaprakash27052001-Git">
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://udhayaprakash-portfolio.com">
