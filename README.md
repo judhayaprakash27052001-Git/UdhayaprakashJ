@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  ```yaml
+  
   name: Udhayaprakash J
   currently: DevOps & Cloud Engineer
   location: Chennai, Tamil Nadu
