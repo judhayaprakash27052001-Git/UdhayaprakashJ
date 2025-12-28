@@ -1,21 +1,30 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Udhayaprakash;DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI/CD" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+# 👋 Hello, I'm Udhayaprakash J
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udhayaprakash2705&label=Profile%20Views&color=00C7B7&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://udhayaprakash-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=react" alt="Portfolio" />
-  </a>
-  <a href="mailto:judhayaprakash27052001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
-  </a>
-</p>
+### DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD
+
+📍 **Chennai, Tamil Nadu** • 📧 **judhayaprakash27052001@gmail.com** • 📱 **9952220611**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/udhayaprakash2705)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=react)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:judhayaprakash27052001@gmail.com)
+
+</div>
 
 ---
+
+## 📋 About Me
+
+```yaml
+name: Udhayaprakash J
+title: DevOps & Cloud Engineer
+location: Chennai, Tamil Nadu
+education: M.Tech in Software Engineering
+university: Vellore Institute of Technology Chennai
+cgpa: 7.69/10
+interests: Cloud Computing, DevOps, Automation, Containerization
 
 ## 🚀 About Me
 
