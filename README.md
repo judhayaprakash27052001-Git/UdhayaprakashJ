@@ -1,6 +1,3 @@
-# **Combined README Analysis & Enhanced Version**
-
-
 <div align="center">
 
 <!-- ==================== ANIMATED HEADER ==================== -->
@@ -94,15 +91,6 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-
-<!-- Stats Cards -->
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001-Git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judhayaprakash27052001-Git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20C20E" alt="Top Languages" />
-</p>
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=judhayaprakash27052001-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
 ![Udhayaprakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=judhayaprakash27052001-Git&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph)
