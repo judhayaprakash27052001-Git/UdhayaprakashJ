@@ -342,14 +342,8 @@ Designed, tested, and refined text prompts to train AI-powered tools including v
     text-decoration: none;
   }
 </style>
-```
+``
 
-## 🎨 **Additional Emoji Categories You Can Add:**
-
-If you want even more emojis, here are categories from the Animated Fluent Emojis repository:
-
-```markdown
-<!-- Technology Emojis -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Desktop%20Computer.gif" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Keyboard.gif" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/GIFs/Objects/Mobile%20Phone.gif" width="40" height="40"/>
