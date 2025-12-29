@@ -218,19 +218,6 @@ If you find my projects interesting, consider giving them a star! ⭐
 </div>
 ```
 
-## 🚀 **Alternative: Using Your Own GIFs in `assets/` Folder**
-
-If you want to use custom GIFs, here's how to set it up:
-
-1. **Create these GIFs** (you can find them online or create your own):
-   - `assets/welcome.gif`
-   - `assets/devops.gif`
-   - `assets/cloud.gif`
-   - `assets/coding.gif`
-
-2. **Add this section to your README** (after the header):
-
-```markdown
 <!-- Custom GIF Section -->
 <div align="center">
   <table>
@@ -260,28 +247,9 @@ If you want to use custom GIFs, here's how to set it up:
 </div>
 ```
 
-## 📱 **Simple Emoji Alternative**
 
-If you want simple, reliable emojis that always work, use GitHub's built-in emojis:
-
-```markdown
 :rocket: :cloud: :whale: :gear: :chart_with_upwards_trend: :computer: :lock: :zap: :star: :fire:
 ```
 
 Which renders as:
-🚀 ☁️ 🐳 ⚙️ 📈 💻 🔑 ⚡ ⭐ 🔥
-
-## 🔧 **Why Emojis Might Not Load:**
-
-1. **Rate Limiting**: GitHub blocks too many external requests
-2. **Broken Links**: External sources might change/remove files
-3. **Network Issues**: Some networks block raw.githubusercontent.com
-
-## ✅ **Solution Summary:**
-
-1. **Use shields.io badges** - Always reliable
-2. **Use GitHub's built-in emojis** - Type `:emoji_name:`
-3. **Host your own GIFs** in `assets/` folder
-4. **Keep it simple** - Focus on content over flashy animations
-
-The version I provided above uses **100% reliable components** that will always display correctly on GitHub. It's professional, visually appealing, and won't have loading issues!
+iable components** that will always display correctly on GitHub. It's professional, visually appealing, and won't have loading issues!
