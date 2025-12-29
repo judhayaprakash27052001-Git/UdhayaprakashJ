@@ -232,16 +232,3 @@ flowchart TD
 
 </div>
 ```
-
-   - `Udhayaprakash-J` with your actual GitHub username
-   - `your-profile` with your LinkedIn username
-   - `your-portfolio.com` with your portfolio URL
-   - Update project repository links
-
-4. **Add animated emojis** by:
-   - Using more from [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
-   - Or custom GIFs in `assets/` folder
-
-5. **Enable GitHub Pages** for your portfolio if you want to host it
-
-This design will make your GitHub profile stand out with professional animations while maintaining a clean, organized layout that showcases your DevOps expertise!
