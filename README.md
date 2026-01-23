@@ -115,8 +115,10 @@ Designed, tested, and refined text prompts to train AI-powered tools including v
 
 ### **📜 Certifications**
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900" />
-  <img src="https://img.shields.io/badge/Google_Cloud_SRE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="SRE" />
+  <img src="https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20SRE-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20Cloud%20DevOps-003A8F?style=for-the-badge&logo=intel&logoColor=white" />
+
 </p>
 
 ## 📈 GitHub Stats
