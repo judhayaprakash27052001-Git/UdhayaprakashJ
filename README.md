@@ -119,6 +119,14 @@ Designed, tested, and refined text prompts to train AI-powered tools including v
   <img src="https://img.shields.io/badge/Google_Cloud_SRE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="SRE" />
 </p>
 
+## 📈 GitHub Stats
+> Add these to show activity — replace with your preferred widgets or remove if you don't want them.
+
+- Contributions: ![GitHub contributions](https://github.com/judhayaprakash27052001-Git.png)
+- Top languages: ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judhayaprakash27052001-Git&layout=compact)
+- Profile stats: ![Stats](https://github-readme-stats.vercel.app/api?username=judhayaprakash27052001-Git&show_icons=true)
+
+
 ---
 
 ## 🎯 **DevOps Pipeline**
